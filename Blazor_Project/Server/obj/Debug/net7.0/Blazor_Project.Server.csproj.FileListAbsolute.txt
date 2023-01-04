@@ -1,0 +1,897 @@
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Blazor_Project.Client.staticwebassets.runtime.json
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\appsettings.Development.json
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\appsettings.json
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\BlazorDebugProxy\BrowserDebugHost.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\BlazorDebugProxy\BrowserDebugProxy.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.Scripting.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\BlazorDebugProxy\Newtonsoft.Json.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Blazor_Project.Server.staticwebassets.runtime.json
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Blazor_Project.Server.exe
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Blazor_Project.Server.deps.json
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Blazor_Project.Server.runtimeconfig.json
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Blazor_Project.Server.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Blazor_Project.Server.pdb
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Azure.Core.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Azure.Identity.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Humanizer.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Microsoft.Build.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Microsoft.JSInterop.WebAssembly.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\NuGet.Common.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\NuGet.Configuration.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\NuGet.Frameworks.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\NuGet.LibraryModel.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\NuGet.Packaging.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\NuGet.ProjectModel.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\NuGet.Protocol.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\NuGet.Versioning.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\System.CodeDom.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\System.Composition.Convention.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\System.Composition.Hosting.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\System.Composition.Runtime.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\System.Composition.TypedParts.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\System.Memory.Data.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Blazor_Project.Client.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Blazor_Project.Shared.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Blazor_Project.Client.pdb
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Blazor_Project.Shared.pdb
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\obj\Debug\net7.0\Blazor_Project.Server.csproj.AssemblyReference.cache
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\obj\Debug\net7.0\Blazor_Project.Server.GeneratedMSBuildEditorConfig.editorconfig
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\obj\Debug\net7.0\Blazor_Project.Server.AssemblyInfoInputs.cache
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\obj\Debug\net7.0\Blazor_Project.Server.AssemblyInfo.cs
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\obj\Debug\net7.0\Blazor_Project.Server.csproj.CoreCompileInputs.cache
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\obj\Debug\net7.0\Blazor_Project.Server.MvcApplicationPartsAssemblyInfo.cache
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\obj\Debug\net7.0\staticwebassets\msbuild.Blazor_Project.Server.Microsoft.AspNetCore.StaticWebAssets.props
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\obj\Debug\net7.0\staticwebassets\msbuild.build.Blazor_Project.Server.props
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Blazor_Project.Server.props
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Blazor_Project.Server.props
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\obj\Debug\net7.0\staticwebassets.pack.json
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\obj\Debug\net7.0\staticwebassets.build.json
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\obj\Debug\net7.0\staticwebassets.development.json
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\obj\Debug\net7.0\scopedcss\bundle\Blazor_Project.Server.styles.css
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\obj\Debug\net7.0\Blazor_Project.Server.csproj.CopyComplete
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\obj\Debug\net7.0\Blazor_Project.Server.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\obj\Debug\net7.0\refint\Blazor_Project.Server.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\obj\Debug\net7.0\Blazor_Project.Server.pdb
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\obj\Debug\net7.0\Blazor_Project.Server.genruntimeconfig.cache
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\obj\Debug\net7.0\ref\Blazor_Project.Server.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\libman.json
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Blazored.Toast.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Authorization.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.Forms.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.Web.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Metadata.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Microsoft.JSInterop.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\libman.json
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\appsettings.Development.json
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\appsettings.json
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\BlazorDebugProxy\BrowserDebugHost.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\BlazorDebugProxy\BrowserDebugProxy.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.Scripting.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\BlazorDebugProxy\Newtonsoft.Json.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Blazor_Project.Client.staticwebassets.runtime.json
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Blazor_Project.Server.staticwebassets.runtime.json
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Blazor_Project.Server.exe
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Blazor_Project.Server.deps.json
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Blazor_Project.Server.runtimeconfig.json
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Blazor_Project.Server.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Blazor_Project.Server.pdb
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Azure.Core.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Azure.Identity.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Blazored.Toast.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Humanizer.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Authorization.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.Forms.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.Web.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Metadata.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Microsoft.Build.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Binder.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Microsoft.JSInterop.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Microsoft.JSInterop.WebAssembly.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Mono.TextTemplating.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Newtonsoft.Json.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\NuGet.Common.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\NuGet.Configuration.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\NuGet.Frameworks.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\NuGet.LibraryModel.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\NuGet.Packaging.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\NuGet.ProjectModel.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\NuGet.Protocol.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\NuGet.Versioning.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\System.CodeDom.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\System.Composition.Convention.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\System.Composition.Hosting.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\System.Composition.Runtime.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\System.Composition.TypedParts.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\System.Drawing.Common.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\System.Memory.Data.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\System.Runtime.Caching.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\System.Security.Permissions.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\System.Windows.Extensions.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Blazor_Project.Client.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Blazor_Project.Shared.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Blazor_Project.Client.pdb
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Blazor_Project.Shared.pdb
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\obj\Debug\net7.0\Blazor_Project.Server.csproj.AssemblyReference.cache
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\obj\Debug\net7.0\Blazor_Project.Server.GeneratedMSBuildEditorConfig.editorconfig
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\obj\Debug\net7.0\Blazor_Project.Server.AssemblyInfoInputs.cache
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\obj\Debug\net7.0\Blazor_Project.Server.AssemblyInfo.cs
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\obj\Debug\net7.0\Blazor_Project.Server.csproj.CoreCompileInputs.cache
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\obj\Debug\net7.0\Blazor_Project.Server.MvcApplicationPartsAssemblyInfo.cache
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\obj\Debug\net7.0\staticwebassets\msbuild.Blazor_Project.Server.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\obj\Debug\net7.0\staticwebassets\msbuild.build.Blazor_Project.Server.props
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Blazor_Project.Server.props
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Blazor_Project.Server.props
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\obj\Debug\net7.0\staticwebassets.pack.json
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\obj\Debug\net7.0\staticwebassets.build.json
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\obj\Debug\net7.0\staticwebassets.development.json
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\obj\Debug\net7.0\scopedcss\bundle\Blazor_Project.Server.styles.css
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\obj\Debug\net7.0\Blazor_Project.Server.csproj.CopyComplete
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\obj\Debug\net7.0\Blazor_Project.Server.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\obj\Debug\net7.0\refint\Blazor_Project.Server.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\obj\Debug\net7.0\Blazor_Project.Server.pdb
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\obj\Debug\net7.0\Blazor_Project.Server.genruntimeconfig.cache
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Server\obj\Debug\net7.0\ref\Blazor_Project.Server.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\libman.json
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\appsettings.Development.json
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\appsettings.json
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\BlazorDebugProxy\BrowserDebugHost.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\BlazorDebugProxy\BrowserDebugProxy.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.Scripting.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\BlazorDebugProxy\Newtonsoft.Json.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Blazor_Project.Client.staticwebassets.runtime.json
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Blazor_Project.Server.staticwebassets.runtime.json
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Blazor_Project.Server.exe
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Blazor_Project.Server.deps.json
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Blazor_Project.Server.runtimeconfig.json
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Blazor_Project.Server.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Blazor_Project.Server.pdb
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Azure.Core.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Azure.Identity.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Blazored.Toast.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Humanizer.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Authorization.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.Forms.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.Web.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Metadata.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Microsoft.Build.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Microsoft.JSInterop.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Microsoft.JSInterop.WebAssembly.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\NuGet.Common.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\NuGet.Configuration.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\NuGet.Frameworks.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\NuGet.LibraryModel.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\NuGet.Packaging.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\NuGet.ProjectModel.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\NuGet.Protocol.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\NuGet.Versioning.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\System.CodeDom.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\System.Composition.Convention.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\System.Composition.Hosting.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\System.Composition.Runtime.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\System.Composition.TypedParts.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\System.Memory.Data.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Blazor_Project.Client.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Blazor_Project.Shared.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Blazor_Project.Client.pdb
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\bin\Debug\net7.0\Blazor_Project.Shared.pdb
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\obj\Debug\net7.0\Blazor_Project.Server.csproj.AssemblyReference.cache
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\obj\Debug\net7.0\Blazor_Project.Server.GeneratedMSBuildEditorConfig.editorconfig
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\obj\Debug\net7.0\Blazor_Project.Server.AssemblyInfoInputs.cache
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\obj\Debug\net7.0\Blazor_Project.Server.AssemblyInfo.cs
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\obj\Debug\net7.0\Blazor_Project.Server.csproj.CoreCompileInputs.cache
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\obj\Debug\net7.0\Blazor_Project.Server.MvcApplicationPartsAssemblyInfo.cache
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\obj\Debug\net7.0\staticwebassets\msbuild.Blazor_Project.Server.Microsoft.AspNetCore.StaticWebAssets.props
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\obj\Debug\net7.0\staticwebassets\msbuild.build.Blazor_Project.Server.props
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Blazor_Project.Server.props
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Blazor_Project.Server.props
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\obj\Debug\net7.0\staticwebassets.pack.json
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\obj\Debug\net7.0\staticwebassets.build.json
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\obj\Debug\net7.0\staticwebassets.development.json
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\obj\Debug\net7.0\scopedcss\bundle\Blazor_Project.Server.styles.css
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\obj\Debug\net7.0\Blazor_Project.Server.csproj.CopyComplete
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\obj\Debug\net7.0\Blazor_Project.Server.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\obj\Debug\net7.0\refint\Blazor_Project.Server.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\obj\Debug\net7.0\Blazor_Project.Server.pdb
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\obj\Debug\net7.0\Blazor_Project.Server.genruntimeconfig.cache
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Server\obj\Debug\net7.0\ref\Blazor_Project.Server.dll

@@ -1,0 +1,36 @@
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Shared\bin\Debug\net7.0\Blazor_Project.Shared.deps.json
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Shared\bin\Debug\net7.0\Blazor_Project.Shared.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Shared\bin\Debug\net7.0\Blazor_Project.Shared.pdb
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Shared\obj\Debug\net7.0\Blazor_Project.Shared.csproj.AssemblyReference.cache
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Shared\obj\Debug\net7.0\Blazor_Project.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Shared\obj\Debug\net7.0\Blazor_Project.Shared.AssemblyInfoInputs.cache
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Shared\obj\Debug\net7.0\Blazor_Project.Shared.AssemblyInfo.cs
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Shared\obj\Debug\net7.0\Blazor_Project.Shared.csproj.CoreCompileInputs.cache
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Shared\obj\Debug\net7.0\Blazor_Project.Shared.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Shared\obj\Debug\net7.0\refint\Blazor_Project.Shared.dll
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Shared\obj\Debug\net7.0\Blazor_Project.Shared.pdb
+D:\M10 Blazor\Practice\Blazor_Project\Blazor_Project\Shared\obj\Debug\net7.0\ref\Blazor_Project.Shared.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Shared\bin\Debug\net7.0\Blazor_Project.Shared.deps.json
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Shared\bin\Debug\net7.0\Blazor_Project.Shared.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Shared\bin\Debug\net7.0\Blazor_Project.Shared.pdb
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Shared\obj\Debug\net7.0\Blazor_Project.Shared.csproj.AssemblyReference.cache
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Shared\obj\Debug\net7.0\Blazor_Project.Shared.GeneratedMSBuildEditorConfig.editorconfig
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Shared\obj\Debug\net7.0\Blazor_Project.Shared.AssemblyInfoInputs.cache
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Shared\obj\Debug\net7.0\Blazor_Project.Shared.AssemblyInfo.cs
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Shared\obj\Debug\net7.0\Blazor_Project.Shared.csproj.CoreCompileInputs.cache
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Shared\obj\Debug\net7.0\Blazor_Project.Shared.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Shared\obj\Debug\net7.0\refint\Blazor_Project.Shared.dll
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Shared\obj\Debug\net7.0\Blazor_Project.Shared.pdb
+F:\Module-10\Practice\Blazor_Project\Blazor_Project\Shared\obj\Debug\net7.0\ref\Blazor_Project.Shared.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Shared\bin\Debug\net7.0\Blazor_Project.Shared.deps.json
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Shared\bin\Debug\net7.0\Blazor_Project.Shared.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Shared\bin\Debug\net7.0\Blazor_Project.Shared.pdb
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Shared\obj\Debug\net7.0\Blazor_Project.Shared.csproj.AssemblyReference.cache
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Shared\obj\Debug\net7.0\Blazor_Project.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Shared\obj\Debug\net7.0\Blazor_Project.Shared.AssemblyInfoInputs.cache
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Shared\obj\Debug\net7.0\Blazor_Project.Shared.AssemblyInfo.cs
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Shared\obj\Debug\net7.0\Blazor_Project.Shared.csproj.CoreCompileInputs.cache
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Shared\obj\Debug\net7.0\Blazor_Project.Shared.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Shared\obj\Debug\net7.0\refint\Blazor_Project.Shared.dll
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Shared\obj\Debug\net7.0\Blazor_Project.Shared.pdb
+D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Shared\obj\Debug\net7.0\ref\Blazor_Project.Shared.dll

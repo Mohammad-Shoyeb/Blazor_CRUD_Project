@@ -1,0 +1,108 @@
+﻿@page "/MobilePhones/Create"
+@using System.Net.Http.Headers;
+@inject HttpClient http
+@inject IToastService toastService
+<div class="row">
+    <div class="col-12">
+        <EditForm Model="@mobilePhone" OnValidSubmit="SaveMobilePhone">
+            <h3>Create MobilePhone</h3>
+            <DataAnnotationsValidator />
+            <div class="form-group row mb-1">
+                <label class="col-form-label col-2 text-end" for="@mobilePhone.MobilePhoneName">MobilePhone name</label>
+                <div class="col-4">
+                    <InputText @bind-Value="mobilePhone.MobilePhoneName" class="form-control" />
+                    <ValidationMessage For="@(()=>mobilePhone.MobilePhoneName)" class="text-danger" />
+                </div>
+            </div>
+            <div class="form-group row mb-1">
+                <label class="col-form-label col-2 text-end" for="@mobilePhone.Price">MobilePhone price</label>
+                <div class="col-4">
+                    <InputNumber @bind-Value="mobilePhone.Price" class="form-control" />
+                    <ValidationMessage For="@(()=>mobilePhone.Price)" class="text-danger" />
+                </div>
+            </div>
+            <div class="form-group row mb-1">
+                <label class="col-form-label col-2 text-end" for="@mobilePhone.Picture">Picture</label>
+                <div class="col-4">
+                    <InputFile OnChange="@OnInputFileChange"  class="form-control" />
+                    <input type="hidden" @bind="mobilePhone.Picture" />
+                    <ValidationMessage For="@(()=>mobilePhone.Picture)" class="text-danger" />
+                </div>
+            </div>
+            <div class="form-group row mb-1">
+                <label class="col-form-label col-2 text-end" for="@mobilePhone.IsAvailable">Available</label>
+                <div class="col-4">
+                    <InputCheckbox @bind-Value="mobilePhone.IsAvailable" class="m-2" />
+                   
+                </div>
+            </div>
+            <div class="form-group row mb-1">
+
+                <div class="col-4 offset-2">
+                    <button type="submit" class="btn btn-primary">Save</button>
+
+                </div>
+            </div>
+        </EditForm>
+    </div>
+    <div class="col-12">
+        <a href="/MobilePhones/List" class="btn btn-link">Back to list</a>
+    </div>
+</div>
+@code {
+    private MobilePhoneDTO mobilePhone = new();
+    IBrowserFile? selectedFile;
+    private void OnInputFileChange(InputFileChangeEventArgs e)
+    {
+        selectedFile = e.File;
+        mobilePhone.Picture = e.File.Name;
+
+        //this.StateHasChanged();
+    }
+    private async Task SaveMobilePhone()
+    {
+        if (mobilePhone is not null)
+        {
+
+
+            var saveImage = await UploadItAsysnc();
+            mobilePhone.Picture = saveImage.StoredFileName;
+            var response = await http.PostAsJsonAsync("api/MobilePhones", mobilePhone);
+            if (response.IsSuccessStatusCode)
+            {
+                toastService.ShowSuccess("Data saved successfully", "Success");
+                mobilePhone = new();
+               
+            }
+            else
+            {
+                toastService.ShowError("Failed to data.", "Error");
+            }
+
+            
+        }
+    }
+    private async Task<ImageUploadResponse> UploadItAsysnc()
+    {
+        using (var ms = new MemoryStream())
+        {
+
+            if (selectedFile is not null)
+            {
+                var content = new MultipartFormDataContent();
+                var fileContent = new StreamContent(selectedFile.OpenReadStream(long.MaxValue));
+
+                fileContent.Headers.ContentType = new MediaTypeHeaderValue(selectedFile.ContentType);
+                content.Add(content: fileContent, name: "\"file\"", fileName: selectedFile.Name);
+                var response = await http.PostAsync("api/MobilePhones/Upload", content);
+                var r = await response.Content.ReadFromJsonAsync<ImageUploadResponse>();
+                return r == null ? new ImageUploadResponse() : r;
+            }
+            else
+            {
+                return new ImageUploadResponse();
+            }
+
+        }
+    }
+}

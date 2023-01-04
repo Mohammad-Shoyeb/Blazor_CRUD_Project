@@ -1,0 +1,49 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\M10 Blazor\\Class Proj Blazor\\Blazor_Project\\Blazor_Project\\Server\\wwwroot\\Uploads\\0gktubki.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\0gktubki.jpg"
+    },
+    {
+      "Id": "D:\\M10 Blazor\\Class Proj Blazor\\Blazor_Project\\Blazor_Project\\Server\\wwwroot\\Uploads\\2vg1kuwo.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\2vg1kuwo.jpg"
+    },
+    {
+      "Id": "D:\\M10 Blazor\\Class Proj Blazor\\Blazor_Project\\Blazor_Project\\Server\\wwwroot\\Uploads\\dk5ay3dq.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\dk5ay3dq.jpg"
+    },
+    {
+      "Id": "D:\\M10 Blazor\\Class Proj Blazor\\Blazor_Project\\Blazor_Project\\Server\\wwwroot\\Uploads\\lds0qszv.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\lds0qszv.jpg"
+    },
+    {
+      "Id": "D:\\M10 Blazor\\Class Proj Blazor\\Blazor_Project\\Blazor_Project\\Server\\wwwroot\\Uploads\\r3ss0ynq.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\r3ss0ynq.jpg"
+    },
+    {
+      "Id": "D:\\M10 Blazor\\Class Proj Blazor\\Blazor_Project\\Blazor_Project\\Server\\wwwroot\\Uploads\\vfbt5m2w.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\vfbt5m2w.jpg"
+    },
+    {
+      "Id": "D:\\M10 Blazor\\Class Proj Blazor\\Blazor_Project\\Blazor_Project\\Server\\wwwroot\\Uploads\\ygh0bc2c.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\ygh0bc2c.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Blazor_Project.Server.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.Blazor_Project.Server.props",
+      "PackagePath": "build\\Blazor_Project.Server.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Blazor_Project.Server.props",
+      "PackagePath": "buildMultiTargeting\\Blazor_Project.Server.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.Blazor_Project.Server.props",
+      "PackagePath": "buildTransitive\\Blazor_Project.Server.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

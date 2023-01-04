@@ -1,0 +1,125 @@
+﻿@page "/MobilePhones/Edit/{id:int}"
+@using System.Net.Http.Headers;
+@inject HttpClient http
+@inject IToastService toastService
+<div class="row">
+    @if (mobilePhone is null)
+    {
+        <div class="col-12">Loading...</div>
+    }
+    else
+    {
+        <div class="col-9">
+            <EditForm Model="@mobilePhone" OnValidSubmit="SaveMobilePhone">
+                <h3>Edit MobilePhone</h3>
+                <DataAnnotationsValidator />
+                <div class="form-group row mb-1">
+                    <label class="col-form-label col-4 text-end" for="@mobilePhone.MobilePhoneName">MobilePhone name</label>
+                    <div class="col-4">
+                        <InputText @bind-Value="mobilePhone.MobilePhoneName" class="form-control" />
+                        <ValidationMessage For="@(()=>mobilePhone.MobilePhoneName)" class="text-danger" />
+                    </div>
+                </div>
+                <div class="form-group row mb-1">
+                    <label class="col-form-label col-4 text-end" for="@mobilePhone.Price">MobilePhone price</label>
+                    <div class="col-4">
+                        <InputNumber @bind-Value="mobilePhone.Price" class="form-control" />
+                        <ValidationMessage For="@(()=>mobilePhone.Price)" class="text-danger" />
+                    </div>
+                </div>
+                <div class="form-group row mb-1">
+                    <label class="col-form-label col-4 text-end" for="@mobilePhone.MobilePhoneName">Picture</label>
+                    <div class="col-4">
+                        <InputFile OnChange="@OnInputFileChange" class="form-control" />
+
+
+                    </div>
+                </div>
+                <div class="form-group row mb-1">
+                    <label class="col-form-label col-4 text-end" for="@mobilePhone.IsAvailable">Available</label>
+                    <div class="col-4">
+                        <InputCheckbox @bind-Value="mobilePhone.IsAvailable" class="mt-2" />
+                    </div>
+                </div>
+                <div class="form-group row mb-1">
+
+                    <div class="col-12 offset-4">
+                        <button type="submit" class="btn btn-primary">Save</button>
+
+                    </div>
+                </div>
+            </EditForm>
+        </div>
+        <div class="col-3">
+            @if (mobilePhone is not null)
+            {
+                <img src="/Uploads/@mobilePhone.Picture" class="img-thumbnail" style="width:150px" />
+            }
+        </div>
+    }
+    <div class="col-12">
+        <a href="/MobilePhones/List" class="btn btn-link">Back to list</a>
+    </div>
+</div>
+
+@code {
+    [Parameter]
+    public int id { get; set; }
+    private MobilePhoneEditDTO? mobilePhone=new();
+    IBrowserFile? selectedFile;
+    protected override async Task OnInitializedAsync()
+    {
+        mobilePhone = await http.GetFromJsonAsync<MobilePhoneEditDTO>($"api/MobilePhones/{id}");
+    }
+    private void OnInputFileChange(InputFileChangeEventArgs e)
+    {
+        selectedFile = e.File;
+
+
+        //this.StateHasChanged();
+    }
+    public async Task SaveMobilePhone()
+    {
+        if (selectedFile is not null)
+        {
+            
+            if(mobilePhone is not null)
+            {
+                var saveImage = await UploadItAsysnc();
+                mobilePhone.Picture = saveImage.StoredFileName;
+                
+            }
+        }
+        var response = await http.PutAsJsonAsync($"api/MobilePhones/{id}", mobilePhone);
+        if (response.IsSuccessStatusCode)
+        {
+            toastService.ShowSuccess("Data updated successfully", "Success");
+        }
+        else
+        {
+            toastService.ShowError("Failed to update data.", "Error");
+        }
+    }
+    private async Task<ImageUploadResponse> UploadItAsysnc()
+    {
+        using (var ms = new MemoryStream())
+        {
+            if (selectedFile is not null)
+            {
+                var content = new MultipartFormDataContent();
+                var fileContent = new StreamContent(selectedFile.OpenReadStream(long.MaxValue));
+
+                fileContent.Headers.ContentType = new MediaTypeHeaderValue(selectedFile.ContentType);
+                content.Add(content: fileContent, name: "\"file\"", fileName: selectedFile.Name);
+                var response = await http.PostAsync("api/MobilePhones/Upload", content);
+                var r = await response.Content.ReadFromJsonAsync<ImageUploadResponse>();
+                return r == null ? new ImageUploadResponse() : r;
+            }
+            else
+            {
+                return new ImageUploadResponse();
+            }
+
+        }
+    }
+}

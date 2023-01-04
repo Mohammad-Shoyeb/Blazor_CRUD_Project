@@ -1,0 +1,81 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = browser
+build_property.RootNamespace = Blazor_Project.Client
+build_property.RootNamespace = Blazor_Project.Client
+build_property.ProjectDir = D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Client\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\M10 Blazor\Class Proj Blazor\Blazor_Project\Blazor_Project\Client
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/M10 Blazor/Class Proj Blazor/Blazor_Project/Blazor_Project/Client/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/M10 Blazor/Class Proj Blazor/Blazor_Project/Blazor_Project/Client/Pages/Customers/Create.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3VzdG9tZXJzXENyZWF0ZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/M10 Blazor/Class Proj Blazor/Blazor_Project/Blazor_Project/Client/Pages/Customers/CustomerList.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3VzdG9tZXJzXEN1c3RvbWVyTGlzdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/M10 Blazor/Class Proj Blazor/Blazor_Project/Blazor_Project/Client/Pages/Customers/Delete.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3VzdG9tZXJzXERlbGV0ZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/M10 Blazor/Class Proj Blazor/Blazor_Project/Blazor_Project/Client/Pages/Customers/Edit.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3VzdG9tZXJzXEVkaXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/M10 Blazor/Class Proj Blazor/Blazor_Project/Blazor_Project/Client/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/M10 Blazor/Class Proj Blazor/Blazor_Project/Blazor_Project/Client/Pages/MobilePhone/Create.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTW9iaWxlUGhvbmVcQ3JlYXRlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/M10 Blazor/Class Proj Blazor/Blazor_Project/Blazor_Project/Client/Pages/MobilePhone/Edit.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTW9iaWxlUGhvbmVcRWRpdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/M10 Blazor/Class Proj Blazor/Blazor_Project/Blazor_Project/Client/Pages/MobilePhone/MobilePhoneList.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTW9iaWxlUGhvbmVcTW9iaWxlUGhvbmVMaXN0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/M10 Blazor/Class Proj Blazor/Blazor_Project/Blazor_Project/Client/Pages/Orders/Create.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3JkZXJzXENyZWF0ZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/M10 Blazor/Class Proj Blazor/Blazor_Project/Blazor_Project/Client/Pages/Orders/Details.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3JkZXJzXERldGFpbHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/M10 Blazor/Class Proj Blazor/Blazor_Project/Blazor_Project/Client/Pages/Orders/Edit.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3JkZXJzXEVkaXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/M10 Blazor/Class Proj Blazor/Blazor_Project/Blazor_Project/Client/Pages/Orders/OrderList.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3JkZXJzXE9yZGVyTGlzdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/M10 Blazor/Class Proj Blazor/Blazor_Project/Blazor_Project/Client/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/M10 Blazor/Class Proj Blazor/Blazor_Project/Blazor_Project/Client/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/M10 Blazor/Class Proj Blazor/Blazor_Project/Blazor_Project/Client/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
